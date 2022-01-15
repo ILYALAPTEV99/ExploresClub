@@ -1,1 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color:black;
+    text-align: center;
+}
+
+.poto {
+    float: right;
+}
+
+.text {
+    float: left;
+    font-size: 30px;
+}
 
